@@ -10,8 +10,8 @@ def doubleQuotes_to_SingleQuotes(text):
 
 st.set_page_config(page_title="Multiline")
 
-st.title("Transform multiline texts into texts with just one line")
-st.write("Use this app to convert a text with multiple lines (like a SQL query) into a text with just one line")
+st.title("Transform multiline texts to texts with just one line")
+st.write("Use this app to convert a text with multiple lines (like a SQL query) to a text with just one line")
 
 multilineText = st.text_input("Insert the multiline text")
 
