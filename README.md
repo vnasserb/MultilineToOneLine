@@ -50,7 +50,7 @@ This will open a new tab in your default web browser with the app running.
 
 ## Demo
 
-You can try out the live demo [here](#) (replace with the actual link once deployed).
+You can try out the live demo [here](#https://onelinetomultiline.streamlit.app/) (replace with the actual link once deployed).
 
 ## Contributing
 
